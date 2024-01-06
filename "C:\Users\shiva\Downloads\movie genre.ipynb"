@@ -1,5 +1,4 @@
-# codsoft--Movie-genre-classification
-hashtag#codsoft Im happy to share my first assignment project in which we used some classification methods like naive Bayes and etc.
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
